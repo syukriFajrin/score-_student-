@@ -52,14 +52,14 @@ SCORE_STUDENT
 ---
 ## Model Evaluation
 ---
-```
+
 | Variables | Model 1 | Model 2 |
 |-----------|---------|---------|
 | MAE       | 4.97    | 4.97    |
 | MSE       | 28.8    | 28.8    |
 | RMSE      | 5.37    | 5.37    |
 | R2_Score  | 0.95    | 0.95    |
-```
+
 
 ---
 # Reference
