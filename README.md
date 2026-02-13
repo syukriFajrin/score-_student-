@@ -52,7 +52,7 @@ SCORE_STUDENT
 ---
 ## Model Evaluation
 ---
-```bash
+```
 | Variables | Model 1 | Model 2 |
 |-----------|---------|---------|
 | MAE       | 4.97    | 4.97    |
